@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="createBody">
+    <nav></nav>
+
+    <div>
+        <form action="/nowhere">
+            <h1>Create New Post</h1>
+            <label for="firstName">*FirstName: </label>
+            <input type="text" id="firstName">
+            <label for="surName">Surname: </label>
+            <input type="text" id="surName">
+            <h3 style="margin-bottom: 5px;">Header</h2>
+            <input type="text" class="headerInput">
+            <h2 style="margin-bottom: 5px;">*Post</h2>
+            <textarea  rows="10" class="postInput" maxlength="550"></textarea>
+            <button>POST</button>
+        </form>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

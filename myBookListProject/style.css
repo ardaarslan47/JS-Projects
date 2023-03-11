@@ -1,0 +1,77 @@
+body{
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+}
+
+form {
+    width: 60vw;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+form input {
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+form button {
+    padding: 7px;
+    background-color: rgb(27, 118, 255);
+    border: none;
+    color: white;
+}
+
+form button:hover {
+    background-color: rgb(0, 102, 255);
+}
+
+form button:active {
+    background-color: rgb(27, 118, 255);
+}
+
+table {
+    width: 60vw;
+    margin-top: 30px;
+}
+tr {
+    display: grid;
+    grid-template-columns: 30% 30% 30% 10%;
+    padding: 5px;
+}
+table thead tr{
+    font-weight: bold;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.closeButton {
+    width: fit-content;
+    text-align: center;
+    border: none;
+    background-color: rgba(185, 1, 1, 0.856);
+    color: white;
+    border-radius: 20%;
+}
+
+.closeButton:hover {
+    background-color: rgba(150, 1, 1, 0.856);
+}
+
+tbody tr {
+    background-color: lightsteelblue;
+}
+
+.alert {
+    padding: 20px;
+    color: white;
+    margin-bottom: 10px;
+  }
+
+  .success{
+    background-color: #28a745;
+  }
+
+  .danger {
+    background-color: #f44336;
+  }
