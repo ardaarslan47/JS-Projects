@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin: 0;
+}
+
+#result {
+  font-weight: 900;
+  font-size: 100px;
+}
+
+nav {
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  padding: 0;
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+nav ul li {
+  font-size: 18px;
+  color: white;
+  cursor: pointer;
+  padding: 20px;
+}
+
+nav ul li:hover {
+  background-color: #222;
+}
