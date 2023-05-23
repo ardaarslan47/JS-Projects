@@ -1,0 +1,41 @@
+{
+  "menu": {
+    "items": [
+      {
+        "name": "Buttermilk Pancake",
+        "img": "https://cdn.yemek.com/mnresize/940/940/uploads/2014/07/pancake-yemekcom.jpg",
+        "description": "Pankek, nişasta bazlı, yumurta, süt ve tereyağı içeren bir bulamaç ile hazırlanan ve genellikle ince ve yuvarlak olan düz bir hamur işi türüdür. Kalbur veya kızartma tavası gibi sıcak ve yağlanmış yüzeylerde pişirilerek hazırlanır.",
+        "price": "$18.99",
+        "type": "Breakfast"
+      },
+      {
+        "name": "Diner Double",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/htoyiqwv/c26dd28b-e700-42c9-89f3-fb6171e1a86d.jpg",
+        "description": "¼ pound patties on a potato roll with house pickles, spinach, tomatoes, American cheese, onion, and special sauce.",
+        "price": "$18.99",
+        "type": "Lunch"
+      },
+      {
+        "name": "Godzilla Burger",
+        "img": "https://cdn.getiryemek.com/restaurants/1673432674341_1125x522.jpeg",
+        "description": "Godzilla Burger. 220 gr. dana kaburga burger köftesi, mozzarella peyniri, dana bacon, cheddar peyniri, karamelize soğan, kibrit patates, karamelize soğan.",
+        "price": "$14.99",
+        "type": "Lunch"
+      },
+      {
+        "name": "Godzilla Milkshake",
+        "img": "https://cdn.yemek.com/mnresize/1250/833/uploads/2022/08/cikolatali-milkshake-yemekcom.jpg",
+        "description": "Milkshake, süt, ezilmiş buz, çeşitli meyveler, çikolata veya vanilya gibi aromaların mikser yardımı ile karıştırılması ile yapılan soğuk bir içecek. Smoothie ve kokteyl ile benzerdir. İngilizce milk ve shake sözcüklerinin birleştirilmesinden oluşturulan isim, bazı ülkelerde de 'frappé' adıyla anılır.",
+        "price": "$5.99",
+        "type": "Shakes"
+      },
+      {
+        "name": "Strawberry Milkshake",
+        "img": "https://i.nefisyemektarifleri.com/2021/09/24/cilekli-milkshake-nasil-yapilir-5.jpg",
+        "description": "Çilekleri bol suda yıkayıp yeşilliklerini keselim. · Dondurma, çilekler, toz şeker ve sütü blender'a alalım.",
+        "price": "$30.00",
+        "type": "Shakes"
+      }
+    ]
+  }
+}
